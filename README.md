@@ -33,5 +33,6 @@ Interfaz gráfica con Swing
 Modo 2 jugadores
 Guardar ranking en archivo
 
-Autor: Duvan Zambrano - Est. Ingeniería de Sistemas UNAD
+Nota: Proyecto realizado en 2016 como parte de mi aprendizaje inicial en programación, antes de iniciar Ingeniería de Sistemas. Re-documentado y organizado en 2026 como parte de mi portafolio junior
+Duvan Zambrano - Est. Ingeniería de Sistemas UNAD
 
